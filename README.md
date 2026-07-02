@@ -17,6 +17,6 @@
 
 
 ## 🔥 News
-- **30 Jun, 2026**: Merge code into OpenOOD-VLM, You can find the relevant project links in [OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM)
+- **30 Jun, 2026**: Merge code into OpenOOD-VLM, You can find the relevant project links in [OpenOOD-VLM](https://github.com/PolyU-VCLab/OpenOOD-VLM)
 - **26 Jun, 2025**: The paper is available in arxiv.
 - **14 Jun, 2026**: Our DDE has been accepted by ECCV2026
